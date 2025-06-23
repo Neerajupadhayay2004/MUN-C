@@ -85,9 +85,9 @@ A comprehensive, modern inventory management system built with **Next.js 14**, *
 
 4. **Open your browser**
    \`\`\`
-   http://localhost:3000
+   https://mun-c01.netlify.app/
    \`\`\`
-
+   
 ### Build for Production
 
 \`\`\`bash
